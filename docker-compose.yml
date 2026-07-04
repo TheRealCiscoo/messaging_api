@@ -1,6 +1,6 @@
 
 services:
-  usersdb:
+  messaging_db_server:
     image: mongo:8.3.2-noble
     container_name: messaging_api
     restart: always
