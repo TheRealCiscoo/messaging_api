@@ -1,0 +1,11 @@
+
+services:
+  usersdb:
+    image: mongo:8.3.2-noble
+    container_name: messaging_api
+    restart: always
+    ports:
+      - 27017:27017
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_INITDB_ROOT_USERNAME}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_INITDB_ROOT_PASSWORD}
