@@ -116,7 +116,7 @@ response (Este es un ejemplo de lo que podría venir en la respuesta):
         "createdAt": "2026-07-04T13:28:10.609Z",
         "updatedAt": "2026-07-04T13:28:10.609Z"
     },
-    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhNDkwYTZhZjEyMTRhZGFjOWQ5YjRiZCIsImlhdCI6MTc4MzE3MTY5NSwiZXhwIjoxNzgzMTcyNTk1fQ.BqopqUbGe8mx72Jg06SGCViEBAW3DvagPi99Jb1A7s4"
+    "access_token": {JWT_ACCESS_TOKEN}
   }
 ```
 
