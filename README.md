@@ -158,7 +158,7 @@ cookie:
 
 response:
   {
-    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhNDkwYTZhZjEyMTRhZGFjOWQ5YjRiZCIsImlhdCI6MTc4MzE3Mjg4NSwiZXhwIjoxNzgzMTczNzg1fQ.O9W-RWjc5_6jeRpePstvvzhEg6ACKphg8MZi6o4Oj2g"
+    "access_token": {JWT_ACCESS_TOKEN}
   }
 ```
 
